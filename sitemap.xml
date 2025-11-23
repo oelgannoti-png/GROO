@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://groppo-sgombero.com/</loc>
+    <lastmod>2025-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Main Pages -->
+  <url>
+    <loc>https://groppo-sgombero.com/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://groppo-sgombero.com/services</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://groppo-sgombero.com/contact</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- City Landing Pages for Local SEO -->
+  <url><loc>https://groppo-sgombero.com/milano</loc><priority>0.9</priority></url>
+  <url><loc>https://groppo-sgombero.com/roma</loc><priority>0.9</priority></url>
+  <url><loc>https://groppo-sgombero.com/torino</loc><priority>0.9</priority></url>
+  <url><loc>https://groppo-sgombero.com/napoli</loc><priority>0.9</priority></url>
+  <url><loc>https://groppo-sgombero.com/firenze</loc><priority>0.9</priority></url>
+  <url><loc>https://sgombero.com/bologna</loc><priority>0.9</priority></url>
+  <url><loc>https://groppo-sgombero.com/verona</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/genova</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/palermo</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/venezia</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/bari</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/catania</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/padova</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/parma</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/bergamo</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/modena</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/brescia</loc><priority>0.8</priority></url>
+  <url><loc>https://groppo-sgombero.com/reggio-calabria</loc><priority>0.7</priority></url>
+  <url><loc>https://groppo-sgombero.com/pisa</loc><priority>0.7</priority></url>
+  <url><loc>https://groppo-sgombero.com/livorno</loc><priority>0.7</priority></url>
+
+</urlset>
